@@ -72,12 +72,12 @@ Citizen.CreateThread(function()
         if whenKeyJustPressed(keys["DOWN"]) then
             if (hidehud ~= false) then
                 hidehud = false
-                TriggerEvent("xrp:showHUD")
+                
                 DisplayHud(true)
             else
                 hidehud = true
                 DisplayHud(false)
-                TriggerEvent("xrp:hideHUD")
+                
             end
         end
     end
