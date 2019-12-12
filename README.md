@@ -97,3 +97,8 @@ know bug :
 
 Horse spawn any you whant
 Campfire dont despawn
+
+<img src="https://forum.fivem.net/uploads/default/optimized/4X/b/f/6/bf6d6e8bab2f407c8fd52d489463d2160e29b0ad_2_999x750.png" border="1"> 
+<img src="https://forum.fivem.net/uploads/default/optimized/4X/d/c/f/dcf0e58258210fcc33ad4bee9de79dd43221e3bc_2_999x750.png" border="1"> 
+<img src="https://forum.fivem.net/uploads/default/optimized/4X/b/8/4/b846f19689515c9cfd1201d46e6ece459340e621_2_999x750.png" border="1"> 
+<img src="https://forum.fivem.net/uploads/default/optimized/4X/3/0/f/30f1cf60354acf08e5059544765f87a9f76fb430_2_999x750.png" border="1"> 
