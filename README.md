@@ -93,8 +93,6 @@ https://discord.gg/aX5th2U
 
 WIP
 
-![0_20191210121238_1|666x500](upload://rjrEvQtkCmrrcY8J4NiBclzvx4p.png) ![0_20191210130617_1|666x500](upload://vwxa2onh8DOljtDcCoMxKQo0Y3i.png) ![0_20191211163633_1|666x500](upload://qibQKgytQQ1mS6EI07kUYUtCNEd.png) ![0_20191211205807_1|666x500](upload://6YYZDTvxaXUXIhlZssyGllkYgRq.png)
-
 know bug : 
 
 Horse spawn any you whant
